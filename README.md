@@ -1,8 +1,6 @@
 # indexed_tree
 A sequence container that supports O(log n) indexing, O(log n) insertion, O(logn n) deletion, O(log n) search and O(n) iteration,
 
-NOTE: this container is currently 1-indexed
-
 USAGE :
 
 initialization-
