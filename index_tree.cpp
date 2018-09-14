@@ -1,3 +1,6 @@
+#ifndef IINDEX_TREE_CPP
+#define IINDEX_TREE_CPP
+
 #include "index_tree.h"
 #include <algorithm>
 #include <cassert>
