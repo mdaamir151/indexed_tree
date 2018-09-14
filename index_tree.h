@@ -56,5 +56,6 @@ class ordered_tree
         value_type& operator[](size_type);
 };
 
+#include "index_tree.cpp"
 
 #endif /* IINDEX_TREE_H */
