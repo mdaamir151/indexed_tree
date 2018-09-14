@@ -5,8 +5,6 @@
 #include <algorithm>
 #include <cassert>
 
-template class ordered_tree<int>;
-
 template<typename T>
 void ordered_tree<T>::updateWt(ordered_tree<T>::ptr_type tn){
         int w1 = 0, w2 = 0;
