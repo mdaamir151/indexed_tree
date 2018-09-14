@@ -199,3 +199,4 @@ typename ordered_tree<T>::value_type& ordered_tree<T>::operator[](ordered_tree<T
     return get(root,pos)->val;
 }
 
+#endif
